@@ -35,8 +35,8 @@ To get the full local experience, you will need two pieces of software running o
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/LuminaGen.git
-   cd LuminaGen
+   git clone https://github.com/amitworx/image-generation-local-llms.git
+   cd image-generation-local-llms
    ```
 
 2. **Install dependencies:**
